@@ -1,0 +1,19 @@
+{
+  "name": "BankAccounts",
+  "version": "0.0.1",
+  "description": "In which I explore writing a RESTful API using Node.js, express, MySql and sequelize",
+  "private": true,
+  "dependencies": {
+    "sequelize": "1.5.0",
+    "express": "2.5.x",
+    "express-resource": ">= 0.2.4",
+    "jade": ">= 0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mihaipaun/restful-bank-accounts.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
