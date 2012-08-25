@@ -1,0 +1,7 @@
+{
+  "database": "bank_development",
+  "user": "root",
+  "username": "root",
+  "password": null,
+  "host" : "127.0.0.1"
+}
